@@ -1,3 +1,4 @@
+# Präsentation: https://aljoschap.github.io/presentation-spd-smart-city/
 # Quellen
 - [1] https://www.bmi.bund.de/DE/themen/bauen-wohnen/stadt-wohnen/stadtentwicklung/smart-cities/smart-cities-node.html
 - [2] https://www.telekom.com/de/konzern/details/smart-city-stadt-der-zukunft-484878
