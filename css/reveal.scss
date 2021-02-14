@@ -166,6 +166,7 @@ html.reveal-full-page {
 }
 
 .reveal .slides section .fragment.highlight-red,
+.reveal .slides section .fragment.highlight-cyan,
 .reveal .slides section .fragment.highlight-current-red,
 .reveal .slides section .fragment.highlight-green,
 .reveal .slides section .fragment.highlight-current-green,
@@ -176,6 +177,9 @@ html.reveal-full-page {
 }
 	.reveal .slides section .fragment.highlight-red.visible {
 		color: #ff2c2d
+	}
+	.reveal .slides section .fragment.highlight-cyan.visible {
+		color: #00B4CC
 	}
 	.reveal .slides section .fragment.highlight-green.visible {
 		color: #17ff2e;
@@ -1818,4 +1822,3 @@ $notesWidthPercent: 25%;
 
 @import 'print/pdf.scss';
 @import 'print/paper.scss';
-
