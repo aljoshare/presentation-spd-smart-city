@@ -13,6 +13,7 @@
 - [12] https://futurium.de/de/blog/eine-smart-city-benoetigt-auch-eine-smarte-betreuung
 
 # Beispielprojekte
+- https://www.youtube.com/watch?v=t-FeUtCN94A
 - Smart-City-Atlas
     - https://www.bitkom.org/Themen/Digitale-Transformation-Branchen/Smart-City-Smart-Region/Smart-City-Atlas
 Songdo
