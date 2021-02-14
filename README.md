@@ -1,28 +1,47 @@
-<p align="center">
-  <a href="https://revealjs.com">
-  <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text.svg" alt="reveal.js" width="450">
-  </a>
-  <br><br>
-  <a href="https://github.com/hakimel/reveal.js/actions"><img src="https://github.com/hakimel/reveal.js/workflows/tests/badge.svg"></a>
-  <a href="https://slides.com/"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
-</p>
+# Quellen
+- [1] https://www.bmi.bund.de/DE/themen/bauen-wohnen/stadt-wohnen/stadtentwicklung/smart-cities/smart-cities-node.html
+- [2] https://www.telekom.com/de/konzern/details/smart-city-stadt-der-zukunft-484878
+- [3] https://www.enbw.com/energie-entdecken/gesellschaft/smart-cities/
+- [4] https://www2.deloitte.com/de/de/pages/consumer-business/articles/smart-cities.html
+- [5] https://www.lpb-bw.de/smart-city#c56712
+- [6] https://www.fokus.fraunhofer.de/go/smart_cities_lab
+- [7] https://wirtschaftslexikon.gabler.de/definition/smart-city-54505/version-277534
+- [8] https://www.sciencedirect.com/science/article/pii/S0264275121000147
+- [9] https://www.for-net.info/2019/12/12/smart-cities-die-staedte-von-morgen/
+- [10] https://digitalcourage.de/blog/2016/smart-city-marketingparadies-mit-totalueberwachung
+- [11] https://www.golem.de/news/studie-die-smart-city-ist-intelligent-aber-angreifbar-1505-113764.html
+- [12] https://futurium.de/de/blog/eine-smart-city-benoetigt-auch-eine-smarte-betreuung
 
-reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://revealjs.com/).
-
-The framework comes with a broad range of features including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX support](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and much more.
-
-<h1>
-  <a href="https://revealjs.com/installation" style="font-size: 3em;">Get Started</a>
-</h1>
-
-## Documentation
-The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
-
-## Online Editor
-Want to create your presentation using a visual editor? Try the official reveal.js presentation platform for free at [Slides.com](https://slides.com). It's made by the same people behind reveal.js.
-
-## License
-
-MIT licensed
-
-Copyright (C) 2011-2020 Hakim El Hattab, https://hakim.se
+# Beispielprojekte
+- Smart-City-Atlas
+    - https://www.bitkom.org/Themen/Digitale-Transformation-Branchen/Smart-City-Smart-Region/Smart-City-Atlas
+Songdo
+    - https://www.spiegel.de/politik/ausland/suedkorea-smart-city-songdo-gruen-und-allwissend-a-1287678.html
+    - https://www.planet-wissen.de/gesellschaft/wohnen/stadtentwicklung/megacities-smart-cities-100.html
+    - https://www1.wdr.de/mediathek/video-smart-city-songdo-city-100.html
+    - https://www.deutschlandfunkkultur.de/smart-city-songdo-in-suedkorea-an-den-menschen-vorbei.979.de.html?dram:article_id=466142
+- Masdar City
+    - https://www.planet-wissen.de/gesellschaft/wohnen/stadtentwicklung/megacities-smart-cities-100.html
+    - https://www.mdpi.com/2071-1050/12/10/4030/htm
+    - https://www.sciencedirect.com/science/article/pii/S2214629619308904
+- Barcelona
+    - https://netzpolitik.org/2018/freie-software-als-oeffentliches-gut-und-was-rathaeuser-dafuer-tun-koennen/
+    - https://www.heise.de/newsticker/meldung/Smart-City-Barcelona-will-erste-sich-selbst-versorgende-Stadt-werden-1387668.html
+    - https://www.tagesspiegel.de/berlin/von-buergerbeteiligung-bis-airbnb-wie-berlin-von-barcelona-digitalisierung-lernen-kann/20898550.html
+    - https://www.mdpi.com/2071-1050/12/10/4030/htm
+- Amsterdam
+    - https://amsterdamsmartcity.com/
+    - https://background.tagesspiegel.de/smart-city-was-berlin-von-amsterdam-lernen-kann
+    - https://towardsdatascience.com/8-years-on-amsterdam-is-still-leading-the-way-as-a-smart-city-79bd91c7ac13
+    - https://www.researchgate.net/publication/303719085_How_to_Become_a_Smart_City_Learning_from_Amsterdam
+    - https://www.researchgate.net/profile/Zulfikar_Dinar_Wahidayat_Putra/publication/329390345_Urban_Innovation_System_and_the_Role_of_an_Open_Web-based_Platform_The_Case_of_Amsterdam_Smart_City/links/5c0647bd92851c6ca1fc6648/Urban-Innovation-System-and-the-Role-of-an-Open-Web-based-Platform-The-Case-of-Amsterdam-Smart-City.pdf
+    - https://www.tandfonline.com/doi/full/10.1080/02723638.2019.1614369
+    - https://www.mdpi.com/2071-1050/12/10/4030/htm
+- Helsinki
+    - https://kommunal.de/helsinki-digitale-zukunft
+    - https://www.ingenieur.de/technik/fachbereiche/architektur/wood-city-in-helsinki-das-sollte-sich-jede-smart-city-von-den-finnen-abgucken/
+    - https://www.fluter.de/smart-city-in-helsinki
+    - https://www.haz.de/Nachrichten/Politik/Deutschland-Welt/Smart-City-Wie-Helsinki-seinen-Verkehr-digitalisiert
+    - https://www.deutschlandfunkkultur.de/smart-cities-in-finnland-stell-dir-die-welt-von-morgen-vor.979.de.html?dram:article_id=414604
+- Wien
+    - https://www.wien.gv.at/stadtentwicklung/projekte/smartcity/index.html
