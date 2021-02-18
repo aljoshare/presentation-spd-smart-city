@@ -12,6 +12,7 @@
 - [10] https://digitalcourage.de/blog/2016/smart-city-marketingparadies-mit-totalueberwachung
 - [11] https://www.golem.de/news/studie-die-smart-city-ist-intelligent-aber-angreifbar-1505-113764.html
 - [12] https://futurium.de/de/blog/eine-smart-city-benoetigt-auch-eine-smarte-betreuung
+- [13] https://bigbrotherawards.de/2018/pr-marketing-smart-city
 
 # Beispielprojekte
 - https://www.youtube.com/watch?v=t-FeUtCN94A
